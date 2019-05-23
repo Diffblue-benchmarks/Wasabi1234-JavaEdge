@@ -1,4 +1,4 @@
-buildCmd: cd ./数据结构与算法/source code/securityAlgorithm; mvn -e -X -Dmaven.test.skip=true compile
+buildCmd: cd './数据结构与算法/source code/securityAlgorithm'; mvn -e -X -Dmaven.test.skip=true compile
 testCmd: true
 lineLength: 4096
 skipVerification: true
